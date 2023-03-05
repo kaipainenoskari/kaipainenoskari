@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oskari Kaipainen || @kaipainenoskari
 - 👀 I’m interested in Web-Development
-- 🌱 I’m currently learning Deno
+- 🌱 I’m currently learning TypeScript & Deno
 - 📫 Message me -> oskari.kaipainen@hotmail.com
 
 <!---
