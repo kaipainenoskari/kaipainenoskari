@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oskari Kaipainen || @kaipainenoskari
-- 👀 I’m interested in Web-Development
+- 👀 I’m interested in Web- & Sofware-Development
 - 🌱 I’m currently learning TypeScript & Deno
 - 📫 Message me -> oskari.kaipainen@hotmail.com
 
