@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web- & Sofware-Development
 - 🌱 I’m currently learning TypeScript & Deno for Web-Development.
 - 👓 I'm also learning about Computer Vision with YOLO object detection, Mediapipe face detection and OpenCV.
-- 📫 Message me -> oskari.kaipainen@hotmail.com
+- 📫 Message me -> oskari.kaipainen(at)hotmail.com
 
 <!---
 kaipainenoskari/kaipainenoskari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
